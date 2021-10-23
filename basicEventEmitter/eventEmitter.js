@@ -7,3 +7,6 @@ exampleEmitter.on('event',()=>{
 });
 
 exampleEmitter.emit('event');
+
+
+// node eventEmitter.js
